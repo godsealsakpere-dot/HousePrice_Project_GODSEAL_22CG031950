@@ -1,0 +1,6 @@
+Name: GODSEAL MIKE SAKPERE
+Matric Number: 22CG031950
+Machine Learning Algorithm Used: Random Forest Regressor
+Model persistence method used: Joblib
+Live URL of the hosted application: [Your Streamlit App URL]
+GitHub repository link: [Your GitHub Repo URL]
